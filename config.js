@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Deep Dives',
-    photo: '/photo.jpg',
+    photo: '',
     bio: 'Exploring technology fundamentals using Feynman technique',
     contacts: {
       email: '',
