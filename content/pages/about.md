@@ -4,10 +4,13 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+My name is Bhaskar Kotakonda and I started this space to bring together my two passions - writing and technology. When I first started reading some of the popular science and technology blogs, I found it difficult to follow the terminologies and jargon that were so commonly used. My initial response was to break down the parts I did not completely understand and find more basic resources that could help me develop the fundamental knowledge for that topic. This space is an effort to bring together such lines of thought and present it in essays, navigating the question through much fundamental questions until each of the building blocks are assimilated - much similar to the Feynman's technique. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Some of the blogs I take inspiration from for their writing style and topics - 
+- [Naval](https://nav.al/)
+- [Paul Graham](http://www.paulgraham.com/)
+- [Stratechery](https://stratechery.com/)
+- [Ribbonfarm](https://www.ribbonfarm.com/)
+- [Wait but Why](https://waitbutwhy.com/)  
+- [Melting Asphalt](https://meltingasphalt.com/)
+- [Farnam Street](https://fs.blog/)
