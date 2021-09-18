@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://deepdives.tech',
+  url: 'https://sahithiinturi.com',
   pathPrefix: '/',
-  title: 'Deep Dives',
-  subtitle: 'Exploring technology fundamentals using Feynman technique',
+  title: 'Sahithi Inturi',
+  subtitle: 'Happy Birthday Babe!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -21,18 +21,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Deep Dives',
-    photo: '/photo.jpg',
-    bio: 'Exploring technology fundamentals using Feynman technique',
+    name: 'Sahithi Inturi',
+    photo: '/media/photo.jpg',
+    bio: 'Happy Birthday Baby!',
     contacts: {
       email: '',
-      facebook: '',
+      facebook: 'sahithi.chowdary.520',
       telegram: '',
-      twitter: 'bhaskarkotakon2',
-      github: 'bhaskarkotakonda',
+      twitter: '',
+      github: 'phani2909',
       rss: '',
       vkontakte: '',
-      linkedin: 'bhaskarkotakonda',
+      linkedin: 'sahithiinturi',
       instagram: '',
       line: '',
       gitlab: '',
