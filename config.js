@@ -22,7 +22,7 @@ module.exports = {
   ],
   author: {
     name: 'Sahithi Inturi',
-    photo: '/media/photo.jpg',
+    photo: '/media/sahithi.jpeg',
     bio: 'Happy Birthday Baby!',
     contacts: {
       email: '',
