@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://sahithiinturi.com',
   pathPrefix: '/',
   title: 'Sahithi Inturi',
-  subtitle: 'rock and roll baby!',
+  subtitle: 'rock and roll Baby!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
