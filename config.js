@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://sahithiinturi.com',
   pathPrefix: '/',
   title: 'Sahithi Inturi',
-  subtitle: 'Happy Birthday Babe!',
+  subtitle: 'rock and roll baby!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Sahithi Inturi',
     photo: '/media/sahithi.jpeg',
-    bio: 'Happy Birthday Baby!',
+    bio: 'rock and roll Baby!',
     contacts: {
       email: '',
       facebook: 'sahithi.chowdary.520',
